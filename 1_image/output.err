@@ -1,0 +1,4 @@
+imgproc.cu(250): warning: variable "dev_blockMax" is used before its value is set
+
+imgproc.cu(250): warning: variable "dev_blockMax" is used before its value is set
+

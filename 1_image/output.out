@@ -1,0 +1,3 @@
+nvcc -O3	 -o imgproc imgproc.cu
+lleo.txt 1920 1214
+Total time transformations: 1.072960
